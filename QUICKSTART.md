@@ -139,7 +139,7 @@
    
    ![ADO Run4](./images/ADO-run4.png)
    
-   Under global, change postfix: 818 to postfix: 819 (line 8) and save.
+   Under global, change postfix: 818 to postfix: 819 (line 5) and save.
    
    8. Now go back to ADO and "Run". This will take a few minutes to finish. The pipeline should create the following artifacts:
    * Resource Group for your Workspace including Storage Account, Container Registry, Application Insights, Keyvault and the Azure Machine Learning Workspace itself.
